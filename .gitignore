@@ -1,0 +1,23 @@
+# Environments
+venv_ADS/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/*.log
+
+# Env / secrets
+.env
+
+# Data (si no quieres versionar datos)
+data/
