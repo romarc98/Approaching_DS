@@ -18,6 +18,8 @@ __pycache__/
 
 # Env / secrets
 .env
+.env.*
+secrets.json
 
 # Data (si no quieres versionar datos)
 data/
